@@ -6,35 +6,33 @@ import Toggle from './Toggle';
 
 function App() {
 
-  const [district,setDistrict] = useState(['경기도','강원도','서울특별시','충청북도','충청남도','전라북도','전라남도']);
+    const [district,setDistrict] = useState(['경기도','강원도','서울특별시','충청북도','충청남도','전라북도','전라남도']);
+    const [toggleopen,setToggleopen] = useState(false);
 
-  const [toggleOpen, setToggleOpen] = useState(false);
+    const toggleMenu = () =>{
+        setToggleopen(!toggleopen);
+    }
 
-  
-  return(
-    <div className="list">
-          <Toggle></Toggle>
-      </div>
-
+  return (
+    <div className="App">
+      <header className="App-header">
+        <div> U SPOT </div>
+          <div>
+              <a
+                  className="App-link"
+                  href="https://www.notion.so/1200gang/2021-8019c43d60864002b32af6b52eb5872d"
+                  target="_blank"
+                  rel="noopener noreferrer"
+              >
+                  광광이 노션 바로가기
+              </a>
+          </div>
+      </header>
+        <div className="list">
+            <Toggle></Toggle>
+        </div>
+    </div>
   );
-
 }
 
 export default App;
-
-
-
-// <div>
-// {
-//   toggleopen ? <Toggle dst={v}></Toggle> : null
-// }
-// {/*<Toggle></Toggle>*/}
-// </div>
-
-
-// li 경기도  <Toggle>
-
-// li 강원도
-
-// <Toggle>
-//   누르면 리스트
