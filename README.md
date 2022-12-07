@@ -1,4 +1,7 @@
-# 👩🏻‍💻🧐🤔💡✍🏻✨
+🙋🏻‍♀️ Hi, I'm yejin lee
+📍 Now I''m in the Hague, Netherlands
+👩🏻‍💻 I'm studying front-end development
+
 
 <!--
 **yejinleee/yejinleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
