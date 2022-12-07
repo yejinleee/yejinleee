@@ -1,6 +1,6 @@
-🙋🏻‍♀️ Hi, I'm yejin lee
-📍 Now I''m in the Hague, Netherlands
-👩🏻‍💻 I'm studying front-end development
+## 🙋🏻‍♀️ Hi, I'm Yejin Lee
+📍 Now I'm in the Hague, Netherlands<br/>
+💻 I'm studying front-end development
 
 
 <!--
