@@ -1,5 +1,4 @@
 ## 🙋🏻‍♀️ Hi, I'm Yejin Lee
-📍 Now I'm in the Hague, Netherlands<br/>
 💻 I'm studying front-end development
 
 
