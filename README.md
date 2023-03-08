@@ -11,7 +11,7 @@
 
 ##### 🏆 10th CMC 데모데이 *대상* - [밥 미션을 수행하고, 포인트를 적립하라! 밥플레이스]() , [밥플사장님]()
 
-##### 🌍 2022.09 ~ 2023.01 Storycrafting methodology app with gamification elements added - [StoryCrafting App]() 
+##### 🌍 2022.09 ~ 2023.01 Storycrafting methodology app with gamification elements added - [StoryCrafting App](https://youtu.be/U93WIt5ecRA) 
   
 <br/>
 
