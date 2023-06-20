@@ -24,3 +24,6 @@
 ##### 🤖 2021.03 ~ 2021.08 세종대학교 인공지능 동아리 [SAI](https://www.youtube.com/channel/UCMf5F1uTcuz8MPN62kb55cg) I팀
 ##### 👩🏻‍💻 2022.04 ~ 2022.07 수익형 앱 런칭 동아리 [CMC](https://www.makeus.in/cmc) 10th Web
 ##### 🌍 2022.08 ~ 2023.01 [TheHagueUniversityAppliedScience](https://www.thuas.com/) 교환학생 파견
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fcolossal-waitress-32b.notion.site%2F99841bd144e54ac6b40faf99071afc78&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
