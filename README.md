@@ -21,6 +21,7 @@
 </p>
 
 <br>
+<!--
 
 <h3 align="center">👩🏻‍💻 Project 👩🏻‍💻</h3>
 <div align="center">
@@ -37,10 +38,9 @@
 
 🏆 2021.05 ~ 2021.10 관광데이터 활용 공모전 *장려상*  - [영상, 텍스트 분석 기반 여행지 추천 웹서비스 USPOT](https://github.com/yejinleee/USPOT_Front) `closed`
 
-
-  
-  
 </div>
+
+-->
 
 <br/>
 
